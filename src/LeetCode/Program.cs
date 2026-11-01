@@ -8,5 +8,6 @@ switch (choice)
     case "2": _002_AddTwoNumbers.Run(); break;
     case "3": _003_LongestSubstringWithoutRepeatingCharacters.Run(); break;
     case "4": _004_MedianOfTwoSortedArrays.Run(); break;
+    case "5": _005_LongestPalindromicSubstring.Run(); break;
     default: Console.WriteLine("Problem not found"); break;
 }
