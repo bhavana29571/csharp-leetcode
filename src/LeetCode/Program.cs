@@ -6,5 +6,6 @@ switch (choice)
 {
     case "1": _001_TwoSum.Run(); break;
     case "2": _002_AddTwoNumbers.Run(); break;
+    case "3": _003_LongestSubstringWithoutRepeatingCharacters.Run(); break;
     default: Console.WriteLine("Problem not found"); break;
 }

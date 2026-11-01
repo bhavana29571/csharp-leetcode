@@ -1,5 +1,6 @@
 // 1. Two Sum (Easy)
 // https://leetcode.com/problems/two-sum/
+//You get an array of numbers and a target number. Find the two numbers that add up to the target, and return their positions (indexes).
 // Time: O(n)  Space: O(n)
 
 
