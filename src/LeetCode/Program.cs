@@ -11,5 +11,6 @@ switch (choice)
     case "5": _005_LongestPalindromicSubstring.Run(); break;
     case "6": _006_ZigZagConversion.Run(); break;
     case "7": _007_ReverseInteger.Run(); break;
+    case "8": _008_StringToInteger.Run(); break;
     default: Console.WriteLine("Problem not found"); break;
 }
