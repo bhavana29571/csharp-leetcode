@@ -10,5 +10,6 @@ switch (choice)
     case "4": _004_MedianOfTwoSortedArrays.Run(); break;
     case "5": _005_LongestPalindromicSubstring.Run(); break;
     case "6": _006_ZigZagConversion.Run(); break;
+    case "7": _007_ReverseInteger.Run(); break;
     default: Console.WriteLine("Problem not found"); break;
 }
