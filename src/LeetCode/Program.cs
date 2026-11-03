@@ -9,5 +9,6 @@ switch (choice)
     case "3": _003_LongestSubstringWithoutRepeatingCharacters.Run(); break;
     case "4": _004_MedianOfTwoSortedArrays.Run(); break;
     case "5": _005_LongestPalindromicSubstring.Run(); break;
+    case "6": _006_ZigZagConversion.Run(); break;
     default: Console.WriteLine("Problem not found"); break;
 }
