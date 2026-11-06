@@ -14,6 +14,8 @@ switch (choice)
     case "8": _008_StringToInteger.Run(); break;
     case "9": _009_PalindromeNumber.Run(); break;
     case "10": _010_RegularExpressionMatching.Run(); break;
+        case "11": _011_ContainerWithMostWater.Run(); break;
+
 
     default: Console.WriteLine("Problem not found"); break;
 }
